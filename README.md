@@ -1,9 +1,9 @@
-## Welcome to my GitHub profile 👋
-### Electrical Engineering and Computer Science (EECS) at UC Berkeley
+# Welcome to my GitHub profile 👋
+## Electrical Engineering and Computer Science (EECS) at UC Berkeley
 
 ![UC Berkeley Banner](https://upload.wikimedia.org/wikipedia/commons/d/df/Berkeley_Sather_Gate_1_banner.jpg)
 
-#### About Me
+### About Me
 Hey there! I'm Isaiah Ou, an Electrical Engineering and Computer Science (EECS) student with a passion for coding and innovation. Here's a glimpse of who I am:
 
 - 🎓 Education: I'm currently pursuing a Bachelor of Science in Electrical Engineering and Computer Science at the University of California, Berkeley.
