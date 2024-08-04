@@ -8,9 +8,9 @@ Hey there! I'm Isaiah Ou, an Electrical Engineering and Computer Science (EECS) 
 - 🎓 Education: B.S. in Electrical Engineering and Computer Science, UC Berkeley
 
 - 💼 Experience:
-  - Amazon SDE Intern: Priority based throttling system for package tracking.
-  - Tesla SWE Intern: Test and build automation.
-  - Stryker SWE Intern: Package update automation.
+  - **Amazon**, SDE Intern: Priority based throttling system for package tracking.
+  - **Tesla**, SWE Intern: Test and build automation.
+  - **Stryker**, SWE Intern: Package update automation.
 
 Let's connect and code together! Feel free to reach out on LinkedIn or explore my code on GitHub. Together, we can turn ideas into reality! 🚀
 
